@@ -1,6 +1,6 @@
 # 🌤️ Forecast AI
 
-Forecast AI is a modern, AI-powered weather web application that delivers real-time forecasts, smart outfit suggestions, and contextual weather insights. Built with cutting-edge technologies like **Next.js**, **Tailwind CSS**, and **GenAI**, it aims to provide a sleek, personalized user experience.
+Forecast AI is a modern, AI-powered weather web application that delivers real-time forecasts, smart outfit suggestions, and contextual weather insights. Built with cutting-edge technologies like **Next.js**, **Tailwind CSS**, and **GeminiAI**, it aims to provide a sleek, personalized user experience.
 
 ---
 
@@ -10,7 +10,7 @@ Forecast AI is a modern, AI-powered weather web application that delivers real-t
   Get current weather and multi-day forecasts for any location.
 
 - 🤖 **AI Smart Insights**  
-  Natural language summaries and weather tips powered by GenAI.
+  Natural language summaries and weather tips powered by GeminiAI.
 
 - 👕 **Outfit Recommendations**  
   Personalized suggestions on what to wear based on the forecast.
@@ -28,7 +28,7 @@ Forecast AI is a modern, AI-powered weather web application that delivers real-t
 - [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Framer Motion](https://www.framer.com/motion/)
-- [OpenAI / Gemini (GenAI)](https://ai.google.dev/)
+- [Gemini AI](https://ai.google.dev/)
 - [Vercel](https://vercel.com/) for deployment
 
 ---
